@@ -18,3 +18,7 @@ Exercise:
 
 // In case you are stuck:
 // https://www.typescriptlang.org/docs/handbook/2/narrowing.html#the-in-operator-narrowing
+
+after fixing this typescript issue convert logPerson function into router handler and consume it on FE
+
+also create get all users route
