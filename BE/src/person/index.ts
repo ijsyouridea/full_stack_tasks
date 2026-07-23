@@ -32,6 +32,7 @@ interface Contractor {
 }
 
 export type Worker = FullTimeEmployee | Contractor;
+//convert department name to enum to avoid typos and make it easier to manage
 
 export const departmentPayRates: Record<string, number> = {
   Engineering: 95000,
