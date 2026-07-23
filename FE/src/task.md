@@ -1,2 +1,3 @@
-show list of users name
-once click on it show its role using another BE endpoint
+show list of worker names
+once click on it show their pay info (department base pay or hourly rate)
+using another BE endpoint
